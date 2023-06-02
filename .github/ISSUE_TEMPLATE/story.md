@@ -1,6 +1,6 @@
---
+---
 name: Story
---
+---
 **Description**
 > Is it possible to have this text under every boat? Maybe under the list of equipment etc.
 
