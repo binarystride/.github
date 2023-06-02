@@ -1,4 +1,3 @@
----
 name: Story
 about: User story that describes a new feature or improvement
 title: ''
@@ -17,4 +16,3 @@ body:
       label: Acceptance Criteria
     validations:
       required: true
----
