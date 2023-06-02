@@ -1,5 +1,5 @@
 name: Story
-about: User story that describes a new feature or improvement
+description: User story that describes a new feature or improvement
 labels: story
 body:
   - type: input
