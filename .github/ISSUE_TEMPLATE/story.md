@@ -5,12 +5,12 @@ title: ''
 labels: story
 assignees: ''
 body:
-  - type: textarea
-    id: acceptance-criteria
-    attributes:
-      label: Acceptance Criteria
-    validations:
-      required: true
+- type: textarea
+  id: acceptance-criteria
+  attributes:
+    label: Acceptance Criteria
+  validations:
+    required: true
 ---
 
 **Description**
