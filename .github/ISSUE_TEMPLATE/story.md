@@ -2,11 +2,14 @@
 name: Story
 about: A user story that results in a feature or improvement
 ---
-**Description**
+### Description
+...
 
-**Acceptance Criteria**
+### Acceptance Criteria
+- 
 
-**Design**
+### Design
+- 
 
 ```[tasklist]
 ### Tasks
