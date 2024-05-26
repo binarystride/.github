@@ -10,8 +10,3 @@ about: A user story that results in a feature or improvement
 
 ### Design
 - 
-
-```[tasklist]
-### Tasks
-- [ ] 
-```
